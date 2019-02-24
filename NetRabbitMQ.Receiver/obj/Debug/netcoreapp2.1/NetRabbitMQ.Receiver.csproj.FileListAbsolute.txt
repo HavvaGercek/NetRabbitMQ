@@ -1,0 +1,10 @@
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\bin\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.deps.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\bin\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.runtimeconfig.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\bin\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.runtimeconfig.dev.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\bin\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.dll
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\bin\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.pdb
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\obj\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\obj\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.AssemblyInfoInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\obj\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.AssemblyInfo.cs
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\obj\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.dll
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Receiver\obj\Debug\netcoreapp2.1\NetRabbitMQ.Receiver.pdb

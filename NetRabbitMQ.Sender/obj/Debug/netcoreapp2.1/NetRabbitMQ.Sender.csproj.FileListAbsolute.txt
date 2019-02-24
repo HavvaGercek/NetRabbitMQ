@@ -1,0 +1,11 @@
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\bin\Debug\netcoreapp2.1\NetRabbitMQ.Sender.deps.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\bin\Debug\netcoreapp2.1\NetRabbitMQ.Sender.runtimeconfig.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\bin\Debug\netcoreapp2.1\NetRabbitMQ.Sender.runtimeconfig.dev.json
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\bin\Debug\netcoreapp2.1\NetRabbitMQ.Sender.dll
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\bin\Debug\netcoreapp2.1\NetRabbitMQ.Sender.pdb
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.csprojAssemblyReference.cache
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.csproj.CoreCompileInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.AssemblyInfoInputs.cache
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.AssemblyInfo.cs
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.dll
+C:\Users\Anahtar Teknoloji\Documents\Projects\NetCore\NetRabbitMQ\NetRabbitMQ.Sender\obj\Debug\netcoreapp2.1\NetRabbitMQ.Sender.pdb

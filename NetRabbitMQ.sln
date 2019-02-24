@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRabbitMQ.Sender", "NetRabbitMQ.Sender\NetRabbitMQ.Sender.csproj", "{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetRabbitMQ.Receiver", "NetRabbitMQ.Receiver\NetRabbitMQ.Receiver.csproj", "{3A65A1FC-3D00-4CD3-80FE-229948D4696D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|x64.Build.0 = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Debug|x86.Build.0 = Debug|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|x64.ActiveCfg = Release|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|x64.Build.0 = Release|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|x86.ActiveCfg = Release|Any CPU
+		{EFC5204F-C54F-4541-947A-BD7E22A7EBA7}.Release|x86.Build.0 = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|x64.Build.0 = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A65A1FC-3D00-4CD3-80FE-229948D4696D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
